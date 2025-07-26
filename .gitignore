@@ -1,0 +1,10 @@
+# Ignore local server settings
+.DS_Store
+*.log
+.env
+vendor/
+node_modules/
+*.sql
+*.sqlite
+*.zip
+*.bak
